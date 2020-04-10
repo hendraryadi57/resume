@@ -6,7 +6,7 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Hendra Ryadi Sardi | Informaition System`,
+    title: `Hendra Ryadi Sardi | Information System`,
     author: `Hendra Ryadi Sardi`,
     description: `With 10+ years of experience in various industries, I help tech
               startups from idea phase to high volumes. I design and build
@@ -14,7 +14,7 @@ module.exports = {
               organization, build teams that produce results.`,
     siteUrl: `https://barancezayirli.com/`,
     social: {
-      twitter: `barancezayirli`,
+      twitter: `harksharp57`,
     },
   },
   plugins: [
