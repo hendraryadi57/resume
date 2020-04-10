@@ -6,8 +6,8 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Baran Cezayirli | Technologist`,
-    author: `Baran Cezayirli`,
+    title: `Hendra Ryadi Sardi | Informaition System`,
+    author: `Hendra Ryadi Sardi`,
     description: `With 10+ years of experience in various industries, I help tech
               startups from idea phase to high volumes. I design and build
               scalable solutions, implement internal processes that fit your
