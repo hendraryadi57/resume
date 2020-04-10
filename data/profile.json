@@ -1,9 +1,9 @@
 {
   "contact": {
-    "phone": "+380 63 251 76 44",
-    "email": "contact@barancezayirli.com",
-    "website": "https://barancezayirli.com",
-    "location": "Kiev, Ukraine"
+    "phone": "+62 85228844021",
+    "email": "hendraryadi@gmail.com",
+    "website": "https://hendraryadi.netlify.com/",
+    "location": "Jakarta Timur, Indonesia"
   },
   "skills": [
     {
@@ -202,16 +202,16 @@
   "summary": "Highly focused technologist with a multidisciplinary skill set honed over 10+ years in the IT industry. I strive to build great products and can take an initial idea, tackle it from multiple angles and take it from something great to something incredible. With 10+ years of experience in various industries, I help tech startups from idea phase to high volumes. I design and build scalable solutions, implement internal processes that fit your organization, build teams that produce results.",
   "education": [
     {
-      "institution": "Middle East Technical University, Turkey",
-      "degree": "Geological Engineering",
-      "start": "2013",
-      "end": "2006"
+      "institution": "Institut Sains & Teknologi AKPRIND Yogyakarta",
+      "degree": "Teknik Informatika",
+      "start": "2012",
+      "end": "2019"
     },
     {
-      "institution": "Gazi University, Turkey",
-      "degree": "Industrial Engineering",
-      "start": "2002",
-      "end": "2006"
+      "institution": "SMA Negeri 1 CAMPAKA",
+      "degree": "IPA",
+      "start": "2009",
+      "end": "2012"
     }
   ],
   "experience": [
@@ -272,7 +272,7 @@
     },
     {
       "service": "linkedin",
-      "url": "https://www.linkedin.com/in/barancezayirli"
+      "url": "https://www.linkedin.com/in/hendraryadi"
     },
     {
       "service": "twitter",
@@ -284,7 +284,7 @@
     },
     {
       "service": "github",
-      "url": "https://github.com/barancezayirli"
+      "url": "https://github.com/hendraryadi57"
     },
     {
       "service": "facebook",
@@ -292,7 +292,7 @@
     },
     {
       "service": "instagram",
-      "url": "https://www.instagram.com/barancezayirli"
+      "url": "https://www.instagram.com/hendraryadi"
     }
   ],
   "role": "Technologist",
